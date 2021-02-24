@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+<a>
 ![github stats](https://github-readme-stats.vercel.app/api?username=kc596&hide=contribs&show_icons=true&theme=radical)
+</a>
 
-![github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kc596&theme=radical&layout=compact&langs_count=10&hide=css,html,scss)
-
+<a>
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kc596&theme=radical&layout=compact&langs_count=10&hide=css,html,scss" />
+</a>
 
 <!--
 **kc596/kc596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
