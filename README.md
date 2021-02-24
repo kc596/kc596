@@ -5,7 +5,8 @@
 ![github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kc596&show_icons=true&theme=radical&layout=compact&langs_count=10&hide=css,html,scss)
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc596&show_icons=true&theme=radical&layout=compact&langs_count=10&hide=css,html,scss" />
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kc596&show_icons=true&theme=radical&layout=compact&langs_count=10&hide=css,html,scss" />
 </a>
 
 <!--
