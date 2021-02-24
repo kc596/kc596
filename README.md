@@ -4,6 +4,10 @@
 
 ![github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kc596&show_icons=true&theme=radical&layout=compact&langs_count=10&hide=css,html,scss)
 
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc596&show_icons=true&theme=radical&layout=compact&langs_count=10&hide=css,html,scss" />
+</a>
+
 <!--
 **kc596/kc596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
