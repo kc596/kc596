@@ -2,7 +2,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=kc596&hide=contribs&show_icons=true&theme=radical)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc596&show_icons=true&theme=radical&langs_count=10&hide=css,html,scss" />
+![github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kc596&show_icons=true&theme=radical&layout=compact&langs_count=10&hide=css,html,scss)
 
 <!--
 **kc596/kc596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
