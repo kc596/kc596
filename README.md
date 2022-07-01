@@ -2,6 +2,7 @@
 
 I am passionate for 🌎 distributed systems and experienced in 💻 backend engineering. I love creating new things and happy to share whatever learnt so far.
 
+How to reach me 📫 : <a href="https://www.linkedin.com/in/kunal-chaudhary/" target="_blank">LinkedIn</a>
 
 #### Github Stats
 <a href="https://github.com/yuyaozhong">
