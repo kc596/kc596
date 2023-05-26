@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-#### Github Stats
-<a href="https://github.com/yuyaozhong">
+#### Github Public Stats
+<a href="#">
   <img align="left" height="200px" width="100%" src="https://github-readme-stats.vercel.app/api?username=kc596&count_private=true&show_icons=true" />
 </a>
 </div>
